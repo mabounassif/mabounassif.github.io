@@ -41,7 +41,7 @@ $$\alpha = 4\pi\epsilon_{0}a^3 = 3\epsilon_{0}v$$
 
 where $$v$$ is the volume of the atom. This is a crude approximation but it is accurate to within a factor of four or so for many simple atoms. 
 
-**Polarizability** is a tendency of matter, when subjected to an electric field, to acquire an electric dipole moment ($$p$$ above) in proportion to that applied field. We will now explore **polar molecules** in the later section. Polar molecules have built-in permanent dipole moments which cannot be induced.
+**Polarizability** is a tendency of matter, when subjected to an electric field, to acquire an electric dipole moment ($$p$$ above) in proportion to that applied field. This is a key property of the solvent that is used in the COSMO solvation models. We will now explore **polar molecules** in the later section. Polar molecules have built-in permanent dipole moments which cannot be induced like the $$H_{2}O$$ molecule a very common polar solvent.
 
 ## Polar Molecules
 
