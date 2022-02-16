@@ -1,7 +1,7 @@
 ---
 title:  "Dielectrics"
 date:   2021-02-15 16:46:55 -0500
-categories: projects
+categories: physics
 layout: default
 ---
 In this post, I will be going over some basic concepts in ElectroDynamics. The objective is to build up the prior knowledge required to understand COSMO ("COnductor-like Screening MOdel") solvation models. I hope that this series of posts can be helpful to those who are getting into the world of quantum chemistry with an engineering mindset.
@@ -23,7 +23,11 @@ If we place a neutral atom in an electric field, our intuition will lead us to b
 
 At equilibrium, $$E = E_e$$. Now the field at a distance $$d$$ from the center of a uniformly charged sphere is:
 
-$$ E_e = \frac{1}{4\pi\epsilon_0} \frac{qd}{a^3} $$
+$$ 
+\begin{align}
+    E_e = \frac{1}{4\pi\epsilon_0} \frac{qd}{a^3} \label{eq1}\tag{1}
+\end{align}
+$$
 
 At equilibrium:
 <p align="center">
