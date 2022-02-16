@@ -23,19 +23,19 @@ Now, taking advantage of the unique spherical symmetry of the charge distributio
 Let's calculate the electric flux through the gaussian surface:
 
 $$
-\Phi_E = \bigcirc\!\!\!\!\!\!\!\int_{surface} \vec{E}\cdot d\vec{a}
+\Phi_E = \oint_{surface} \vec{E}\cdot d\vec{a}
 $$
 
 Because, $$d\vec{a}$$ is always aligned with $$\vec{E}$$ we can drop the dot product:
 
 $$
-\Phi_E = \bigcirc\!\!\!\!\!\!\!\int_{surface} \vec{E}\cdot d\vec{a} = 4\pi r^2 E(r)
+\Phi_E = \oint_{surface} \vec{E}\cdot d\vec{a} = 4\pi r^2 E(r)
 $$
 
 Notice how we are only interested in the value of $$E$$ which only depends on the radius given it's concentric nature. The field diminishes as the radius increases. Moreover, it remains the same across the surface for a specific radius. Let's apply the powerful Gauss's law now which states:
 
 $$
-\Phi_E = \bigcirc\!\!\!\!\!\!\!\int_{surface} \vec{E}\cdot d\vec{a} = \frac{Q_{enc}}{\epsilon_0}
+\Phi_E = \oint_{surface} \vec{E}\cdot d\vec{a} = \frac{Q_{enc}}{\epsilon_0}
 $$
 
 where $$\epsilon_0$$ is the permitivity in vacuum and $$Q_{enc}$$ is the total charged enclosed within a surface 🤯.
