@@ -29,7 +29,7 @@ $$
 \end{align}
 $$
 
-At equilibrium:
+Equation $$\ref{eq1}$$ is deduced in more details in the following [post]({% post_url 2021-02-16-electric-field-uniform-charged-sphere %})  by appying Gauss's law to find the electric field inside a uniformly charged sphere. Assuming the equation is correct, we have at equilibrium:
 <p align="center">
 $$ E = \frac{1}{4\pi\epsilon_0} \frac{qd}{a^3} $$ or 
 $$p = qd = (4\pi\epsilon_{0}a^3)E $$
