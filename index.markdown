@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Blog Posts
+### Topics
 ---
 {% for category in site.categories %}
   - {{ category | first | upcase }}

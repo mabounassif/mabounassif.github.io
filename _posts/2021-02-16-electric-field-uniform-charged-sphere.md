@@ -1,7 +1,7 @@
 ---
-title:  "Electric field inside a uniformly charged sphere "
-date:   2021-02-15 16:46:55 -0500
-categories: examples
+title:  "Example: Electric Field inside a Uniformly Charged Sphere "
+date:   2021-02-12 16:46:55 -0500
+categories: physics
 layout: default
 ---
 In this post, I will cover the classic exercise of calculating the electric field inside a uniformly charged sphere with a charge density $$\rho$$. Subsequently, this will allow us to calculate the electric field value at any point within the sphere. Let's start by presenting the problem and setting up the framework to solve it.
